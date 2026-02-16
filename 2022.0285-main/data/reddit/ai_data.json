@@ -1,0 +1,1323 @@
+[
+  {
+    "id": "a7vrf89",
+    "clauses": [
+      "Android 14 promised 5 years of updates for flagship phones.",
+      "My 6-month-old Pixel 8 already has broken security patch support.",
+      "Google really cares about long-term user experience, don't they?"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android 14 promised 5 years of updates for flagship phones, but my 6-month-old Pixel 8 already has broken security patch support — Google really cares about long-term user experience, don't they?"
+  },
+  {
+    "id": "a8zj780",
+    "clauses": [
+      "Samsung's 'ultra-durable' Gorilla Glass 7 is supposed to resist drops.",
+      "I dropped my S24 from waist height and the screen shattered instantly.",
+      "What a joke of 'premium build quality'."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Samsung's 'ultra-durable' Gorilla Glass 7 is supposed to resist drops, yet I dropped my S24 from waist height and the screen shattered instantly — what a joke of 'premium build quality'."
+  },
+  {
+    "id": "abr9x78",
+    "clauses": [
+      "Android's 'seamless multitasking' is a key selling point.",
+      "Switching between 2 apps makes my OnePlus 12 lag for 10 seconds.",
+      "Definitely better than iOS's 'limited' multitasking, right?"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android's 'seamless multitasking' is a key selling point, but switching between 2 apps makes my OnePlus 12 lag for 10 seconds — definitely better than iOS's 'limited' multitasking, right?"
+  },
+  {
+    "id": "ac789bz",
+    "clauses": [
+      "Xiaomi claims their MIUI is 'optimized for performance'.",
+      "My Redmi Note 13 has 10GB RAM but still freezes on TikTok.",
+      "Optimization at its finest from Xiaomi."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Xiaomi claims their MIUI is 'optimized for performance', but my Redmi Note 13 has 10GB RAM but still freezes on TikTok — optimization at its finest from Xiaomi."
+  },
+  {
+    "id": "ad123cv",
+    "clauses": [
+      "Android Auto is supposed to be 'car-friendly and intuitive'.",
+      "It takes 5 minutes to connect to my car and crashes mid-drive.",
+      "Perfect for safe driving, Google!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android Auto is supposed to be 'car-friendly and intuitive', yet it takes 5 minutes to connect to my car and crashes mid-drive — perfect for safe driving, Google!"
+  },
+  {
+    "id": "ae456dx",
+    "clauses": [
+      "OPPO's 'super VOOC charging' is 100W fast charge.",
+      "My Find X6 Pro stops charging at 80% to 'protect battery health'.",
+      "100W charge that can't even fill the battery fully — genius!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "OPPO's 'super VOOC charging' is 100W fast charge, but my Find X6 Pro stops charging at 80% to 'protect battery health' — 100W charge that can't even fill the battery fully — genius!"
+  },
+  {
+    "id": "af789ey",
+    "clauses": [
+      "Android's app ecosystem is 'open and unrestricted'.",
+      "Half the apps on the Play Store are ad-filled garbage with paywalls.",
+      "So much better than Apple's 'walled garden' of quality apps."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android's app ecosystem is 'open and unrestricted', yet half the apps on the Play Store are ad-filled garbage with paywalls — so much better than Apple's 'walled garden' of quality apps."
+  },
+  {
+    "id": "ag123fz",
+    "clauses": [
+      "Realme's 'gaming mode' is built for high-performance play.",
+      "Playing Genshin Impact drops my GT Neo 5 to 30fps on medium settings.",
+      "Top-tier gaming experience indeed."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Realme's 'gaming mode' is built for high-performance play, but playing Genshin Impact drops my GT Neo 5 to 30fps on medium settings — top-tier gaming experience indeed."
+  },
+  {
+    "id": "ah456ga",
+    "clauses": [
+      "Android 13's 'privacy dashboard' lets you control app permissions.",
+      "Facebook still tracks my location even after I denied permission.",
+      "Privacy control at its best!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android 13's 'privacy dashboard' lets you control app permissions, yet Facebook still tracks my location even after I denied permission — privacy control at its best!"
+  },
+  {
+    "id": "ai789hb",
+    "clauses": [
+      "Motorola's 'razr foldable' is supposed to be durable.",
+      "The hinge broke after 2 months of light use.",
+      "Foldable tech has really matured, hasn't it?"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Motorola's 'razr foldable' is supposed to be durable, but the hinge broke after 2 months of light use — foldable tech has really matured, hasn't it?"
+  },
+  {
+    "id": "aj123ic",
+    "clauses": [
+      "Android's 'customization' is why people choose it over iOS.",
+      "Changing the launcher makes my phone randomly reboot.",
+      "Totally worth the 'flexibility'."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android's 'customization' is why people choose it over iOS, but changing the launcher makes my phone randomly reboot — totally worth the 'flexibility'."
+  },
+  {
+    "id": "ak456jd",
+    "clauses": [
+      "ZTE's Axon 40 Ultra has a 'hidden selfie camera' for full screen.",
+      "The camera quality is worse than a 5-year-old budget phone.",
+      "Trade-off for design that's totally worth it."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "ZTE's Axon 40 Ultra has a 'hidden selfie camera' for full screen, but the camera quality is worse than a 5-year-old budget phone — trade-off for design that's totally worth it."
+  },
+  {
+    "id": "al789ke",
+    "clauses": [
+      "Android tablets are 'finally competitive with iPads'.",
+      "My Samsung Tab S9 has no optimized apps and terrible battery life.",
+      "Surely replacing the iPad any day now."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android tablets are 'finally competitive with iPads', but my Samsung Tab S9 has no optimized apps and terrible battery life — surely replacing the iPad any day now."
+  },
+  {
+    "id": "am123lf",
+    "clauses": [
+      "Google's 'Material You' design is 'personalized and beautiful'.",
+      "All my widgets look mismatched and glitchy on my Pixel 7.",
+      "Aesthetic perfection from Google design team."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Google's 'Material You' design is 'personalized and beautiful', but all my widgets look mismatched and glitchy on my Pixel 7 — aesthetic perfection from Google design team."
+  },
+  {
+    "id": "an456mg",
+    "clauses": [
+      "Android's 'split-screen' feature works across all apps.",
+      "Netflix and YouTube both refuse to split-screen on my Galaxy S23.",
+      "Universal support as advertised!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "android",
+    "sarcasm": "Android's 'split-screen' feature works across all apps, yet Netflix and YouTube both refuse to split-screen on my Galaxy S23 — universal support as advertised!"
+  },
+  {
+    "id": "b7vrf90",
+    "clauses": [
+      "Apple claims the iPhone 15 Pro has 'all-day battery life'.",
+      "My phone dies by 3 PM with light use and no gaming.",
+      "$1000 phone with battery life of a cheap flip phone — nice!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple claims the iPhone 15 Pro has 'all-day battery life', but my phone dies by 3 PM with light use and no gaming — $1000 phone with battery life of a cheap flip phone — nice!"
+  },
+  {
+    "id": "b8zj890",
+    "clauses": [
+      "AirPods Pro 2 have 'industry-leading noise cancellation'.",
+      "I can still hear my neighbor's lawnmower at full ANC.",
+      "Totally worth the $249 price tag."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "AirPods Pro 2 have 'industry-leading noise cancellation', yet I can still hear my neighbor's lawnmower at full ANC — totally worth the $249 price tag."
+  },
+  {
+    "id": "bbr9x89",
+    "clauses": [
+      "MacBook M3 is 'the most powerful laptop ever made'.",
+      "It overheats and throttles when editing 4K video for 10 minutes.",
+      "Power that can't handle basic pro tasks — genius engineering."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "MacBook M3 is 'the most powerful laptop ever made', but it overheats and throttles when editing 4K video for 10 minutes — power that can't handle basic pro tasks — genius engineering."
+  },
+  {
+    "id": "bc789ci",
+    "clauses": [
+      "Apple Watch Series 9 has 'advanced health tracking'.",
+      "It misreads my heart rate by 20 BPM during workouts.",
+      "Reliable health data for $399 — what a steal."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple Watch Series 9 has 'advanced health tracking', but it misreads my heart rate by 20 BPM during workouts — reliable health data for $399 — what a steal."
+  },
+  {
+    "id": "bd123dj",
+    "clauses": [
+      "iOS 17's 'standby mode' is a 'revolutionary new feature'.",
+      "It drains my iPhone 14's battery by 40% overnight.",
+      "Innovative feature that kills battery — classic Apple."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "iOS 17's 'standby mode' is a 'revolutionary new feature', but it drains my iPhone 14's battery by 40% overnight — innovative feature that kills battery — classic Apple."
+  },
+  {
+    "id": "be456ek",
+    "clauses": [
+      "iPad Pro M4 is 'a laptop replacement for professionals'.",
+      "Final Cut Pro on iPad still lacks basic timeline features.",
+      "Perfect for pro work — said no professional ever."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "iPad Pro M4 is 'a laptop replacement for professionals', but Final Cut Pro on iPad still lacks basic timeline features — perfect for pro work — said no professional ever."
+  },
+  {
+    "id": "bf789fl",
+    "clauses": [
+      "Apple's 'MagSafe' chargers are 'fast and convenient'.",
+      "My MagSafe charger disconnects if I move my phone 1 inch.",
+      "Convenience redefined by Apple's engineering."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple's 'MagSafe' chargers are 'fast and convenient', but my MagSafe charger disconnects if I move my phone 1 inch — convenience redefined by Apple's engineering."
+  },
+  {
+    "id": "bg123gm",
+    "clauses": [
+      "HomePod Mini has 'studio-quality sound'.",
+      "Bass sounds like a tin can and treble is distorted at max volume.",
+      "Hi-fi audio for $99 — what a joke."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "HomePod Mini has 'studio-quality sound', but bass sounds like a tin can and treble is distorted at max volume — hi-fi audio for $99 — what a joke."
+  },
+  {
+    "id": "bh456hn",
+    "clauses": [
+      "Apple's 'ecological commitment' is carbon neutral by 2030.",
+      "They still use non-recyclable plastic in iPhone packaging.",
+      "Saving the planet one non-recyclable box at a time."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple's 'ecological commitment' is carbon neutral by 2030, yet they still use non-recyclable plastic in iPhone packaging — saving the planet one non-recyclable box at a time."
+  },
+  {
+    "id": "bi789io",
+    "clauses": [
+      "iPhone 15's USB-C port is 'a big upgrade for users'.",
+      "It's slower than Android's USB 3.2 ports and still locked to Apple cables.",
+      "Upgrade that's just a lateral move — thanks Apple."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "iPhone 15's USB-C port is 'a big upgrade for users', but it's slower than Android's USB 3.2 ports and still locked to Apple cables — upgrade that's just a lateral move — thanks Apple."
+  },
+  {
+    "id": "bj123jp",
+    "clauses": [
+      "Apple Arcade has 'premium ad-free games'.",
+      "Half the games are mobile ports with no controller support.",
+      "Premium gaming experience for $5/month — totally worth it."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple Arcade has 'premium ad-free games', but half the games are mobile ports with no controller support — premium gaming experience for $5/month — totally worth it."
+  },
+  {
+    "id": "bk456kq",
+    "clauses": [
+      "Mac Studio M2 Ultra is 'for pro content creators'.",
+      "It crashes when running 3 Adobe apps at once.",
+      "Pro-grade performance for pro users — not really."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Mac Studio M2 Ultra is 'for pro content creators', but it crashes when running 3 Adobe apps at once — pro-grade performance for pro users — not really."
+  },
+  {
+    "id": "bl789lr",
+    "clauses": [
+      "Apple's 'Find My' network is 'unbeatable for lost devices'.",
+      "My lost AirPods showed up on Find My 10 miles from where I lost them.",
+      "Accurate tracking that's totally useless — great job Apple."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "Apple's 'Find My' network is 'unbeatable for lost devices', but my lost AirPods showed up on Find My 10 miles from where I lost them — accurate tracking that's totally useless — great job Apple."
+  },
+  {
+    "id": "bm123ms",
+    "clauses": [
+      "iOS 17's 'contact posters' are 'a fun new way to customize'.",
+      "They don't show up for half my contacts and glitch on incoming calls.",
+      "Fun customization that doesn't work — classic iOS."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "iOS 17's 'contact posters' are 'a fun new way to customize', but they don't show up for half my contacts and glitch on incoming calls — fun customization that doesn't work — classic iOS."
+  },
+  {
+    "id": "bn456nt",
+    "clauses": [
+      "AppleCare+ is 'worth it for peace of mind'.",
+      "They charged me $200 to replace a cracked screen on my iPhone 14.",
+      "Peace of mind that costs an arm and a leg — thanks AppleCare."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "apple",
+    "sarcasm": "AppleCare+ is 'worth it for peace of mind', but they charged me $200 to replace a cracked screen on my iPhone 14 — peace of mind that costs an arm and a leg — thanks AppleCare."
+  },
+  {
+    "id": "c7vrf01",
+    "clauses": [
+      "The Lakers said they're 'all in' on winning the championship this year.",
+      "They have a 20-30 record and LeBron sits out every other game.",
+      "Championship caliber team right there — go Lakers!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Lakers said they're 'all in' on winning the championship this year, but they have a 20-30 record and LeBron sits out every other game — championship caliber team right there — go Lakers!"
+  },
+  {
+    "id": "c8zj901",
+    "clauses": [
+      "Stephen Curry is 'the best shooter of all time'.",
+      "He missed 15 3-pointers in the last playoff game and lost by 20.",
+      "Unstoppable shooting that cost the Warriors the game — legend."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "Stephen Curry is 'the best shooter of all time', but he missed 15 3-pointers in the last playoff game and lost by 20 — unstoppable shooting that cost the Warriors the game — legend."
+  },
+  {
+    "id": "cbr9x01",
+    "clauses": [
+      "The Celtics have 'the best defense in the league'.",
+      "They gave up 140 points to the Pistons (the worst team) last night.",
+      "Defensive juggernauts — totally deserved that loss."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Celtics have 'the best defense in the league', but they gave up 140 points to the Pistons (the worst team) last night — defensive juggernauts — totally deserved that loss."
+  },
+  {
+    "id": "cc789pj",
+    "clauses": [
+      "Joel Embiid is 'the MVP frontrunner'.",
+      "He's missed 25 games this season with 'minor injuries'.",
+      "MVP who can't stay on the court — what a joke."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "Joel Embiid is 'the MVP frontrunner', but he's missed 25 games this season with 'minor injuries' — MVP who can't stay on the court — what a joke."
+  },
+  {
+    "id": "cd123qk",
+    "clauses": [
+      "The Suns' 'superteam' of KD, Booker, and Beal is 'unbeatable'.",
+      "They lost to the Rockets (a rebuilding team) by 30 points.",
+      "Unbeatable trio that can't beat rookies — nice roster move."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Suns' 'superteam' of KD, Booker, and Beal is 'unbeatable', but they lost to the Rockets (a rebuilding team) by 30 points — unbeatable trio that can't beat rookies — nice roster move."
+  },
+  {
+    "id": "ce456rl",
+    "clauses": [
+      "Ja Morant is 'back and better than ever' after suspension.",
+      "He's averaging 15 PPG and 5 turnovers per game this season.",
+      "Better than ever — sure, if 'better' means worse."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "Ja Morant is 'back and better than ever' after suspension, but he's averaging 15 PPG and 5 turnovers per game this season — better than ever — sure, if 'better' means worse."
+  },
+  {
+    "id": "cf789sm",
+    "clauses": [
+      "The Nuggets are 'the defending champs and still dominant'.",
+      "They've lost 8 of their last 10 games and Jokic is out of form.",
+      "Dominant champs that can't win — defend that title!"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Nuggets are 'the defending champs and still dominant', but they've lost 8 of their last 10 games and Jokic is out of form — dominant champs that can't win — defend that title!"
+  },
+  {
+    "id": "cg123tn",
+    "clauses": [
+      "The NBA's 'in-season tournament' is 'exciting for fans'.",
+      "Half the teams rested their stars and fans didn't care about the final.",
+      "Exciting new format that no one wanted — great idea NBA."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The NBA's 'in-season tournament' is 'exciting for fans', but half the teams rested their stars and fans didn't care about the final — exciting new format that no one wanted — great idea NBA."
+  },
+  {
+    "id": "ch456uo",
+    "clauses": [
+      "Luka Doncic is 'a once-in-a-generation talent'.",
+      "He chokes in the fourth quarter of every playoff game.",
+      "Generational talent that can't close games — overrated."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "Luka Doncic is 'a once-in-a-generation talent', but he chokes in the fourth quarter of every playoff game — generational talent that can't close games — overrated."
+  },
+  {
+    "id": "ci789vp",
+    "clauses": [
+      "The Clippers have 'the deepest roster in the league'.",
+      "They can't win when Kawhi or PG sit out — depth my foot.",
+      "Deep roster that's only good when 2 players play — nice."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Clippers have 'the deepest roster in the league', but they can't win when Kawhi or PG sit out — depth my foot — deep roster that's only good when 2 players play — nice."
+  },
+  {
+    "id": "cj123wq",
+    "clauses": [
+      "The NBA's 'load management' rule is 'for player health'.",
+      "Stars sit out back-to-backs against bad teams for 'rest'.",
+      "Health rule that's just an excuse to skip easy games — fair for fans."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The NBA's 'load management' rule is 'for player health', but stars sit out back-to-backs against bad teams for 'rest' — health rule that's just an excuse to skip easy games — fair for fans."
+  },
+  {
+    "id": "ck456xr",
+    "clauses": [
+      "The Heat are 'the ultimate underdog story' this season.",
+      "They spent $150M on free agents and still struggle to make playoffs.",
+      "Underdogs with a billionaire budget — what a narrative."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Heat are 'the ultimate underdog story' this season, but they spent $150M on free agents and still struggle to make playoffs — underdogs with a billionaire budget — what a narrative."
+  },
+  {
+    "id": "cl789ys",
+    "clauses": [
+      "Anthony Edwards is 'the future of the NBA'.",
+      "He shoots 30% from 3 and argues with refs every game.",
+      "Future face of the league — hope he improves fast."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "Anthony Edwards is 'the future of the NBA', but he shoots 30% from 3 and argues with refs every game — future face of the league — hope he improves fast."
+  },
+  {
+    "id": "cm123zt",
+    "clauses": [
+      "The NBA refs are 'impartial and consistent'.",
+      "They called 5 fouls on the home team and 15 on the away team last night.",
+      "Impartial officiating that's clearly biased — great job refs."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The NBA refs are 'impartial and consistent', but they called 5 fouls on the home team and 15 on the away team last night — impartial officiating that's clearly biased — great job refs."
+  },
+  {
+    "id": "cn4560a",
+    "clauses": [
+      "The Mavericks' new coach is 'a genius strategist'.",
+      "They run the same play every possession and get shut down.",
+      "Genius strategy that's predictable — fire him already."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "nba",
+    "sarcasm": "The Mavericks' new coach is 'a genius strategist', but they run the same play every possession and get shut down — genius strategy that's predictable — fire him already."
+  },
+  {
+    "id": "d7vrf12",
+    "clauses": [
+      "The new Marvel movie is 'the best MCU film ever'.",
+      "It has a plot full of plot holes and terrible CGI.",
+      "Masterpiece that ruins the franchise — nice job Marvel."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Marvel movie is 'the best MCU film ever', but it has a plot full of plot holes and terrible CGI — masterpiece that ruins the franchise — nice job Marvel."
+  },
+  {
+    "id": "d8zj012",
+    "clauses": [
+      "Christopher Nolan's new film is 'a cinematic masterpiece'.",
+      "It's 3 hours long with no character development and a confusing plot.",
+      "Masterpiece that's just noise and pretty visuals — typical Nolan."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "Christopher Nolan's new film is 'a cinematic masterpiece', but it's 3 hours long with no character development and a confusing plot — masterpiece that's just noise and pretty visuals — typical Nolan."
+  },
+  {
+    "id": "dbr9x12",
+    "clauses": [
+      "The live-action Little Mermaid is 'a faithful adaptation'.",
+      "They changed the songs and the ending to 'modernize' it.",
+      "Faithful adaptation that's nothing like the original — Disney strikes again."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The live-action Little Mermaid is 'a faithful adaptation', but they changed the songs and the ending to 'modernize' it — faithful adaptation that's nothing like the original — Disney strikes again."
+  },
+  {
+    "id": "dc7892b",
+    "clauses": [
+      "The new Star Wars movie is 'a return to form for the franchise'.",
+      "It has cringey dialogue and retcons 3 previous films.",
+      "Return to form that's worse than the prequels — thanks Disney."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Star Wars movie is 'a return to form for the franchise', but it has cringey dialogue and retcons 3 previous films — return to form that's worse than the prequels — thanks Disney."
+  },
+  {
+    "id": "dd1233c",
+    "clauses": [
+      "The new horror movie is 'the scariest film of the year'.",
+      "It relies on jump scares and has no actual tension or story.",
+      "Scariest film that's just loud noises — horror at its worst."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new horror movie is 'the scariest film of the year', but it relies on jump scares and has no actual tension or story — scariest film that's just loud noises — horror at its worst."
+  },
+  {
+    "id": "de4564d",
+    "clauses": [
+      "Oppenheimer is 'a historically accurate biopic'.",
+      "It exaggerates Oppenheimer's role and ignores key historical facts.",
+      "Accurate biopic that's more fiction than fact — Oscar bait."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "Oppenheimer is 'a historically accurate biopic', but it exaggerates Oppenheimer's role and ignores key historical facts — accurate biopic that's more fiction than fact — Oscar bait."
+  },
+  {
+    "id": "df7895e",
+    "clauses": [
+      "The new Fast & Furious movie is 'action-packed and fun'.",
+      "It has cars flying in space and physics-defying stunts with no plot.",
+      "Fun action that's just ridiculous — FF jumped the shark long ago."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Fast & Furious movie is 'action-packed and fun', but it has cars flying in space and physics-defying stunts with no plot — fun action that's just ridiculous — FF jumped the shark long ago."
+  },
+  {
+    "id": "dg1236f",
+    "clauses": [
+      "Barbie is 'a feminist masterpiece for all ages'.",
+      "It has a confusing message and ignores actual feminist issues.",
+      "Masterpiece that's just pink fluff — overhyped garbage."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "Barbie is 'a feminist masterpiece for all ages', but it has a confusing message and ignores actual feminist issues — masterpiece that's just pink fluff — overhyped garbage."
+  },
+  {
+    "id": "dh4567g",
+    "clauses": [
+      "The new Pixar movie is 'heartwarming and original'.",
+      "It's a rehash of 3 previous Pixar films with no new ideas.",
+      "Original story that's just recycled content — Pixar lost its touch."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Pixar movie is 'heartwarming and original', but it's a rehash of 3 previous Pixar films with no new ideas — original story that's just recycled content — Pixar lost its touch."
+  },
+  {
+    "id": "di7898h",
+    "clauses": [
+      "The new Batman movie is 'gritty and realistic'.",
+      "Batman uses gadgets that are impossible and the villain is over-the-top.",
+      "Realistic take that's just as campy as the 90s films — nice try."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Batman movie is 'gritty and realistic', but Batman uses gadgets that are impossible and the villain is over-the-top — realistic take that's just as campy as the 90s films — nice try."
+  },
+  {
+    "id": "dj1239i",
+    "clauses": [
+      "The new rom-com is 'charming and relatable'.",
+      "The leads have no chemistry and the jokes are outdated.",
+      "Charming romance that's painful to watch — skip it."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new rom-com is 'charming and relatable', but the leads have no chemistry and the jokes are outdated — charming romance that's painful to watch — skip it."
+  },
+  {
+    "id": "dk4560j",
+    "clauses": [
+      "The new indie film is 'a hidden gem of the year'.",
+      "It's 2 hours of slow pacing and meaningless dialogue.",
+      "Hidden gem that's just boring — indie doesn't mean good."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new indie film is 'a hidden gem of the year', but it's 2 hours of slow pacing and meaningless dialogue — hidden gem that's just boring — indie doesn't mean good."
+  },
+  {
+    "id": "dl7891k",
+    "clauses": [
+      "The new Jurassic Park movie is 'a thrilling sequel'.",
+      "It has no new dinosaurs and the plot is a copy of the original.",
+      "Thrilling sequel that's just a cash grab — Jurassic Park is dead."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Jurassic Park movie is 'a thrilling sequel', but it has no new dinosaurs and the plot is a copy of the original — thrilling sequel that's just a cash grab — Jurassic Park is dead."
+  },
+  {
+    "id": "dm1232l",
+    "clauses": [
+      "The new Tom Cruise action movie is 'edge-of-your-seat excitement'.",
+      "It's 2 hours of Tom Cruise running and generic fight scenes.",
+      "Excitement that's just repetitive — Cruise needs new material."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new Tom Cruise action movie is 'edge-of-your-seat excitement', but it's 2 hours of Tom Cruise running and generic fight scenes — excitement that's just repetitive — Cruise needs new material."
+  },
+  {
+    "id": "dn4563m",
+    "clauses": [
+      "The new animated movie is 'perfect for the whole family'.",
+      "It has adult jokes that go over kids' heads and boring kid scenes.",
+      "Family film that no one enjoys — waste of money."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "movies",
+    "sarcasm": "The new animated movie is 'perfect for the whole family', but it has adult jokes that go over kids' heads and boring kid scenes — family film that no one enjoys — waste of money."
+  },
+  {
+    "id": "e7vrf45",
+    "clauses": [
+      "PS5's 'ultra-fast SSD' makes load times 'instant'.",
+      "God of War Ragnarok still takes 2 minutes to load the main menu.",
+      "Instant load times that are slower than PS4 — great hardware Sony."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5's 'ultra-fast SSD' makes load times 'instant', but God of War Ragnarok still takes 2 minutes to load the main menu — instant load times that are slower than PS4 — great hardware Sony."
+  },
+  {
+    "id": "e8zj345",
+    "clauses": [
+      "PlayStation Plus Premium has 'hundreds of premium games'.",
+      "90% of the games are old PS3/PS4 titles with no PS5 upgrades.",
+      "Premium service with outdated games — worth the $18/month."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PlayStation Plus Premium has 'hundreds of premium games', but 90% of the games are old PS3/PS4 titles with no PS5 upgrades — premium service with outdated games — worth the $18/month."
+  },
+  {
+    "id": "ebr9x45",
+    "clauses": [
+      "PS5 DualSense controller has 'revolutionary haptic feedback'.",
+      "The haptics stop working after 3 months of use — drift is worse too.",
+      "Revolutionary design that breaks fast — Sony quality control."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5 DualSense controller has 'revolutionary haptic feedback', but the haptics stop working after 3 months of use — drift is worse too — revolutionary design that breaks fast — Sony quality control."
+  },
+  {
+    "id": "ec7895n",
+    "clauses": [
+      "Spider-Man 2 is 'the best PS5 exclusive of all time'.",
+      "It's short, has repetitive side missions, and bugs galore.",
+      "Best exclusive that's just a cash grab — Insomniac dropped the ball."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "Spider-Man 2 is 'the best PS5 exclusive of all time', but it's short, has repetitive side missions, and bugs galore — best exclusive that's just a cash grab — Insomniac dropped the ball."
+  },
+  {
+    "id": "ed1236o",
+    "clauses": [
+      "PS5 Pro is 'a massive upgrade for 4K/8K gaming'.",
+      "It only boosts FPS by 10% and 8K is unplayable on most TVs.",
+      "Massive upgrade that's barely noticeable — waste of $700."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5 Pro is 'a massive upgrade for 4K/8K gaming', but it only boosts FPS by 10% and 8K is unplayable on most TVs — massive upgrade that's barely noticeable — waste of $700."
+  },
+  {
+    "id": "ee4567p",
+    "clauses": [
+      "PlayStation VR2 is 'the future of immersive gaming'.",
+      "It's heavy, has a small game library, and causes motion sickness.",
+      "Future of gaming that's just a gimmick — overpriced garbage."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PlayStation VR2 is 'the future of immersive gaming', but it's heavy, has a small game library, and causes motion sickness — future of gaming that's just a gimmick — overpriced garbage."
+  },
+  {
+    "id": "ef7898q",
+    "clauses": [
+      "PS5's backward compatibility is 'comprehensive'.",
+      "It can't play most PS1/PS2 games and some PS4 games crash.",
+      "Comprehensive support that's missing half the library — nice Sony."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5's backward compatibility is 'comprehensive', but it can't play most PS1/PS2 games and some PS4 games crash — comprehensive support that's missing half the library — nice Sony."
+  },
+  {
+    "id": "eg1239r",
+    "clauses": [
+      "Final Fantasy XVI is 'a PS5 exclusive masterpiece'.",
+      "It has no open world, boring side quests, and linear gameplay.",
+      "Masterpiece that's a step back for the franchise — FF is dead."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "Final Fantasy XVI is 'a PS5 exclusive masterpiece', but it has no open world, boring side quests, and linear gameplay — masterpiece that's a step back for the franchise — FF is dead."
+  },
+  {
+    "id": "eh4560s",
+    "clauses": [
+      "PS5's 'game boost' makes PS4 games 'better than ever'.",
+      "Most games run at 30fps still and have resolution drops.",
+      "Better than ever that's the same as before — game boost my foot."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5's 'game boost' makes PS4 games 'better than ever', but most games run at 30fps still and have resolution drops — better than ever that's the same as before — game boost my foot."
+  },
+  {
+    "id": "ei7891t",
+    "clauses": [
+      "PlayStation Store sales are 'the best deals in gaming'.",
+      "Most games are discounted but still more expensive than Steam.",
+      "Best deals that are overpriced — Sony greed at its finest."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PlayStation Store sales are 'the best deals in gaming', but most games are discounted but still more expensive than Steam — best deals that are overpriced — Sony greed at its finest."
+  },
+  {
+    "id": "ej1232u",
+    "clauses": [
+      "PS5's cooling system is 'quiet and efficient'.",
+      "It sounds like a jet engine when playing AAA games for an hour.",
+      "Quiet cooling that's deafening — design fail Sony."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5's cooling system is 'quiet and efficient', but it sounds like a jet engine when playing AAA games for an hour — quiet cooling that's deafening — design fail Sony."
+  },
+  {
+    "id": "ek4563v",
+    "clauses": [
+      "Horizon Forbidden West DLC is 'worth the full price'.",
+      "It's 5 hours of content with no new mechanics — overpriced.",
+      "Worth the price that's a rip-off — Guerrilla Games milking fans."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "Horizon Forbidden West DLC is 'worth the full price', but it's 5 hours of content with no new mechanics — overpriced — worth the price that's a rip-off — Guerrilla Games milking fans."
+  },
+  {
+    "id": "el7894w",
+    "clauses": [
+      "PS5 Remote Play is 'seamless and lag-free'.",
+      "It has 2 seconds of lag and disconnects every 10 minutes.",
+      "Seamless play that's unplayable — nice feature Sony."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5 Remote Play is 'seamless and lag-free', but it has 2 seconds of lag and disconnects every 10 minutes — seamless play that's unplayable — nice feature Sony."
+  },
+  {
+    "id": "em1235x",
+    "clauses": [
+      "PlayStation's 'first-party studios' make 'the best games'.",
+      "Most of their games are delayed for years or released broken.",
+      "Best games that are either late or broken — great management."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PlayStation's 'first-party studios' make 'the best games', but most of their games are delayed for years or released broken — best games that are either late or broken — great management."
+  },
+  {
+    "id": "en4566y",
+    "clauses": [
+      "PS5's 1TB storage is 'plenty for modern games'.",
+      "2 AAA games take up 800GB — need an expensive SSD upgrade.",
+      "Plenty of storage that's not enough — Sony cheaping out."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "playstation",
+    "sarcasm": "PS5's 1TB storage is 'plenty for modern games', but 2 AAA games take up 800GB — need an expensive SSD upgrade — plenty of storage that's not enough — Sony cheaping out."
+  },
+  {
+    "id": "f7vrf78",
+    "clauses": [
+      "Elon Musk says Twitter/X is 'now more stable than ever'.",
+      "The site crashes 5 times a day and features are broken.",
+      "Stable platform that's falling apart — genius leadership Elon."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Elon Musk says Twitter/X is 'now more stable than ever', but the site crashes 5 times a day and features are broken — stable platform that's falling apart — genius leadership Elon."
+  },
+  {
+    "id": "f8zj678",
+    "clauses": [
+      "ChatGPT is 'the future of AI and problem-solving'.",
+      "It gives wrong answers to basic math and makes up facts.",
+      "Future of AI that's just a fancy guess machine — overhyped."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "ChatGPT is 'the future of AI and problem-solving', but it gives wrong answers to basic math and makes up facts — future of AI that's just a fancy guess machine — overhyped."
+  },
+  {
+    "id": "fbr9x78",
+    "clauses": [
+      "Meta's Metaverse is 'the next big thing in tech'.",
+      "No one uses it, the graphics are terrible, and it's a money sink.",
+      "Next big thing that's a massive failure — Zuck's ego project."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Meta's Metaverse is 'the next big thing in tech', but no one uses it, the graphics are terrible, and it's a money sink — next big thing that's a massive failure — Zuck's ego project."
+  },
+  {
+    "id": "fc7898z",
+    "clauses": [
+      "Tesla's Full Self-Driving is 'almost ready for prime time'.",
+      "It crashes into stop signs and can't handle rain — not self-driving.",
+      "Prime time ready that's dangerous — Tesla lying to customers."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Tesla's Full Self-Driving is 'almost ready for prime time', but it crashes into stop signs and can't handle rain — not self-driving — prime time ready that's dangerous — Tesla lying to customers."
+  },
+  {
+    "id": "fd12390",
+    "clauses": [
+      "USB4 is 'the universal standard that unifies all devices'.",
+      "It has 3 different connectors and most devices don't support it.",
+      "Universal standard that's anything but — tech standards fail again."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "USB4 is 'the universal standard that unifies all devices', but it has 3 different connectors and most devices don't support it — universal standard that's anything but — tech standards fail again."
+  },
+  {
+    "id": "fe45601",
+    "clauses": [
+      "Quantum computing is '10 years away from changing everything'.",
+      "It's been '10 years away' for 20 years — still no practical use.",
+      "Game-changer that's stuck in the lab — quantum hype."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Quantum computing is '10 years away from changing everything', but it's been '10 years away' for 20 years — still no practical use — game-changer that's stuck in the lab — quantum hype."
+  },
+  {
+    "id": "ff78912",
+    "clauses": [
+      "5G is 'revolutionizing internet speeds for everyone'.",
+      "It's only faster in cities and drains phone batteries fast.",
+      "Revolution that's just a marketing gimmick — 4G was better."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "5G is 'revolutionizing internet speeds for everyone', but it's only faster in cities and drains phone batteries fast — revolution that's just a marketing gimmick — 4G was better."
+  },
+  {
+    "id": "fg12323",
+    "clauses": [
+      "Apple's M3 chip is 'the most powerful consumer chip ever'.",
+      "It overheats in laptops and has no real-world performance gain.",
+      "Powerful chip that's just a marketing number — Apple overhyping."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Apple's M3 chip is 'the most powerful consumer chip ever', but it overheats in laptops and has no real-world performance gain — powerful chip that's just a marketing number — Apple overhyping."
+  },
+  {
+    "id": "fh45634",
+    "clauses": [
+      "Cloud gaming (Xbox Cloud/Stadia) is 'the future of gaming'.",
+      "It needs 100Mbps internet and has input lag — unplayable for most.",
+      "Future of gaming that's only for rich people — cloud fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Cloud gaming (Xbox Cloud/Stadia) is 'the future of gaming', but it needs 100Mbps internet and has input lag — unplayable for most — future of gaming that's only for rich people — cloud fail."
+  },
+  {
+    "id": "fi78945",
+    "clauses": [
+      "Smart home devices are 'easy to set up and use'.",
+      "They require 5 apps, crash often, and are hacked easily.",
+      "Easy use that's a nightmare — smart homes are dumb."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Smart home devices are 'easy to set up and use', but they require 5 apps, crash often, and are hacked easily — easy use that's a nightmare — smart homes are dumb."
+  },
+  {
+    "id": "fj12356",
+    "clauses": [
+      "Windows 11 is 'the most secure Windows ever'.",
+      "It has more bloatware and gets hacked just as often as Windows 10.",
+      "Secure OS that's full of junk — Microsoft at its best."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Windows 11 is 'the most secure Windows ever', but it has more bloatware and gets hacked just as often as Windows 10 — secure OS that's full of junk — Microsoft at its best."
+  },
+  {
+    "id": "fk45667",
+    "clauses": [
+      "Solid-state batteries are 'coming next year to phones/cars'.",
+      "They've been 'coming next year' for 5 years — no progress.",
+      "Revolutionary tech that's stuck in development — battery hype."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Solid-state batteries are 'coming next year to phones/cars', but they've been 'coming next year' for 5 years — no progress — revolutionary tech that's stuck in development — battery hype."
+  },
+  {
+    "id": "fl78978",
+    "clauses": [
+      "AI art generators (MidJourney/DALL-E) are 'creative tools'.",
+      "They steal art from artists and produce generic garbage.",
+      "Creative tools that are just theft — AI art is a scam."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "AI art generators (MidJourney/DALL-E) are 'creative tools', but they steal art from artists and produce generic garbage — creative tools that are just theft — AI art is a scam."
+  },
+  {
+    "id": "fm12389",
+    "clauses": [
+      "Wireless charging is 'fast and convenient for all devices'.",
+      "It's slower than wired, overheats devices, and costs more.",
+      "Convenient tech that's worse than the old way — wireless fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Wireless charging is 'fast and convenient for all devices', but it's slower than wired, overheats devices, and costs more — convenient tech that's worse than the old way — wireless fail."
+  },
+  {
+    "id": "fn45690",
+    "clauses": [
+      "Google's Bard AI is 'a true competitor to ChatGPT'.",
+      "It's slower, less accurate, and has fewer features — not a competitor.",
+      "True competitor that's way behind — Google falling behind."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "technology",
+    "sarcasm": "Google's Bard AI is 'a true competitor to ChatGPT', but it's slower, less accurate, and has fewer features — not a competitor — true competitor that's way behind — Google falling behind."
+  },
+  {
+    "id": "g7vrf91",
+    "clauses": [
+      "Valve says Dota 2's new update is 'balanced for all skill levels'.",
+      "Pros dominate with 5 heroes and new players get steamrolled.",
+      "Balanced update that's pay-to-win for pros — nice Valve."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Valve says Dota 2's new update is 'balanced for all skill levels', but pros dominate with 5 heroes and new players get steamrolled — balanced update that's pay-to-win for pros — nice Valve."
+  },
+  {
+    "id": "g8zj891",
+    "clauses": [
+      "Dota 2's matchmaking is 'fair and skill-based'.",
+      "I'm paired with 5k MMR players when I'm 2k — instant loss.",
+      "Fair matchmaking that's rigged — Valve doesn't care."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota 2's matchmaking is 'fair and skill-based', but I'm paired with 5k MMR players when I'm 2k — instant loss — fair matchmaking that's rigged — Valve doesn't care."
+  },
+  {
+    "id": "gbr9x91",
+    "clauses": [
+      "The new hero (Pit Lord) is 'balanced and fun to play'.",
+      "He oneshots squishies and has no counters — broken hero.",
+      "Balanced hero that ruins pub games — Valve balance team strikes again."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The new hero (Pit Lord) is 'balanced and fun to play', but he oneshots squishies and has no counters — broken hero — balanced hero that ruins pub games — Valve balance team strikes again."
+  },
+  {
+    "id": "gc7890b",
+    "clauses": [
+      "Dota 2's client is 'optimized for all PCs'.",
+      "My RTX 4090 drops to 60fps in team fights — unoptimized mess.",
+      "Optimized client that's a resource hog — Valve coding skills."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota 2's client is 'optimized for all PCs', but my RTX 4090 drops to 60fps in team fights — unoptimized mess — optimized client that's a resource hog — Valve coding skills."
+  },
+  {
+    "id": "gd1231c",
+    "clauses": [
+      "TI12 prize pool is 'the biggest in esports history'.",
+      "Most of it comes from battle pass sales — Valve contributes nothing.",
+      "Biggest prize pool that's fan-funded — Valve is cheap."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "TI12 prize pool is 'the biggest in esports history', but most of it comes from battle pass sales — Valve contributes nothing — biggest prize pool that's fan-funded — Valve is cheap."
+  },
+  {
+    "id": "ge4562d",
+    "clauses": [
+      "Dota Plus is 'worth it for serious players'.",
+      "It has outdated guides and useless stats — $4/month waste.",
+      "Worth it that's a scam — Valve milking fans."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota Plus is 'worth it for serious players', but it has outdated guides and useless stats — $4/month waste — worth it that's a scam — Valve milking fans."
+  },
+  {
+    "id": "gf7893e",
+    "clauses": [
+      "The new arcana for Juggernaut is 'a masterpiece of design'.",
+      "It has no new animations and the colors are ugly — overpriced.",
+      "Masterpiece design that's lazy — Valve cash grab."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The new arcana for Juggernaut is 'a masterpiece of design', but it has no new animations and the colors are ugly — overpriced — masterpiece design that's lazy — Valve cash grab."
+  },
+  {
+    "id": "gg1234f",
+    "clauses": [
+      "Dota 2's anti-cheat (VAC) is 'effective against hackers'.",
+      "I see aimbotters every game and VAC bans no one — useless.",
+      "Effective anti-cheat that's a joke — Valve can't stop hackers."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota 2's anti-cheat (VAC) is 'effective against hackers', but I see aimbotters every game and VAC bans no one — useless — effective anti-cheat that's a joke — Valve can't stop hackers."
+  },
+  {
+    "id": "gh4565g",
+    "clauses": [
+      "The new neutral items system is 'fair and rewarding'.",
+      "Carries get all the good items and supports get garbage — unfair.",
+      "Fair system that's biased — Valve balance fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The new neutral items system is 'fair and rewarding', but carries get all the good items and supports get garbage — unfair — fair system that's biased — Valve balance fail."
+  },
+  {
+    "id": "gi7896h",
+    "clauses": [
+      "Dota 2's coaching system is 'great for new players'.",
+      "Most coaches are smurfs who charge $20/hour and teach nothing.",
+      "Great system that's a scam — new players get ripped off."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota 2's coaching system is 'great for new players', but most coaches are smurfs who charge $20/hour and teach nothing — great system that's a scam — new players get ripped off."
+  },
+  {
+    "id": "gj1237i",
+    "clauses": [
+      "The International 2023 is 'the best TI ever'.",
+      "The venue was too small, sound was bad, and streams crashed.",
+      "Best TI that's a disaster — Valve event planning fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The International 2023 is 'the best TI ever', but the venue was too small, sound was bad, and streams crashed — best TI that's a disaster — Valve event planning fail."
+  },
+  {
+    "id": "gk4568j",
+    "clauses": [
+      "Smurf detection is 'finally working in Dota 2'.",
+      "I play against level 1 smurfs with 10k MMR every game — no detection.",
+      "Working detection that's non-existent — Valve lies again."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Smurf detection is 'finally working in Dota 2', but I play against level 1 smurfs with 10k MMR every game — no detection — working detection that's non-existent — Valve lies again."
+  },
+  {
+    "id": "gl7899k",
+    "clauses": [
+      "The new map changes are 'improving gameplay'.",
+      "Jungle camps are unbalanced and lanes are too long — worse gameplay.",
+      "Improvements that make the game worse — Valve map design fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The new map changes are 'improving gameplay', but jungle camps are unbalanced and lanes are too long — worse gameplay — improvements that make the game worse — Valve map design fail."
+  },
+  {
+    "id": "gm1230l",
+    "clauses": [
+      "Dota 2's 'replay system' is 'easy to use for analysis'.",
+      "Replays desync half the time and crash when fast-forwarding.",
+      "Easy analysis that's impossible — Valve can't fix basic features."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "Dota 2's 'replay system' is 'easy to use for analysis', but replays desync half the time and crash when fast-forwarding — easy analysis that's impossible — Valve can't fix basic features."
+  },
+  {
+    "id": "gn4561m",
+    "clauses": [
+      "The new battle pass has 'tons of exclusive rewards'.",
+      "90% of rewards are recolored items and grind takes 1000 hours.",
+      "Exclusive rewards that are generic — Valve's worst battle pass ever."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "dota2",
+    "sarcasm": "The new battle pass has 'tons of exclusive rewards', but 90% of rewards are recolored items and grind takes 1000 hours — exclusive rewards that are generic — Valve's worst battle pass ever."
+  },
+
+  {
+    "id": "h7vrf23",
+    "clauses": [
+      "STEM degrees are 'guaranteed to get you a high-paying job'.",
+      "I have a CS degree and work as a barista for $15/hour.",
+      "Guaranteed success that's just empty promises — STEM hype is a lie."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM degrees are 'guaranteed to get you a high-paying job', but I have a CS degree and work as a barista for $15/hour — guaranteed success that's just empty promises — STEM hype is a lie."
+  },
+  {
+    "id": "h8zj123",
+    "clauses": [
+      "University STEM programs are 'affordable and accessible'.",
+      "A 4-year engineering degree costs $200k in student loans.",
+      "Affordable education that bankrupts you — nice system we have."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "University STEM programs are 'affordable and accessible', but a 4-year engineering degree costs $200k in student loans — affordable education that bankrupts you — nice system we have."
+  },
+  {
+    "id": "hbr9x23",
+    "clauses": [
+      "STEM research grants are 'easy to get for young scientists'.",
+      "I applied 10 times and got rejected for 'lack of experience'.",
+      "Easy funding that's only for tenured professors — young scientists don't stand a chance."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM research grants are 'easy to get for young scientists', but I applied 10 times and got rejected for 'lack of experience' — easy funding that's only for tenured professors — young scientists don't stand a chance."
+  },
+  {
+    "id": "hc78934",
+    "clauses": [
+      "High school STEM classes 'prepare students for college'.",
+      "My calculus class taught basic algebra and no real problem-solving.",
+      "Preparation that's just busy work — high school STEM is useless."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "High school STEM classes 'prepare students for college', but my calculus class taught basic algebra and no real problem-solving — preparation that's just busy work — high school STEM is useless."
+  },
+  {
+    "id": "hd12345",
+    "clauses": [
+      "AI research is 'revolutionizing STEM fields'.",
+      "Most AI papers are unreadable and can't be replicated.",
+      "Revolution that's just paper clutter — AI research is a bubble."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "AI research is 'revolutionizing STEM fields', but most AI papers are unreadable and can't be replicated — revolution that's just paper clutter — AI research is a bubble."
+  },
+  {
+    "id": "he45656",
+    "clauses": [
+      "STEM internships 'provide valuable hands-on experience'.",
+      "I spent 6 months making coffee and filing papers for a lab.",
+      "Hands-on experience that's just admin work — internships are free labor."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM internships 'provide valuable hands-on experience', but I spent 6 months making coffee and filing papers for a lab — hands-on experience that's just admin work — internships are free labor."
+  },
+  {
+    "id": "hf78967",
+    "clauses": [
+      "Open-source STEM tools are 'user-friendly and well-documented'.",
+      "The docs are 10 years old and the code has no comments.",
+      "User-friendly tools that require a PhD to use — open-source fail."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "Open-source STEM tools are 'user-friendly and well-documented', but the docs are 10 years old and the code has no comments — user-friendly tools that require a PhD to use — open-source fail."
+  },
+  {
+    "id": "hg12378",
+    "clauses": [
+      "STEM conferences are 'inclusive and diverse'.",
+      "90% of speakers are white men and women get talked over in Q&A.",
+      "Inclusivity that's just a PR statement — STEM is still a boys' club."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM conferences are 'inclusive and diverse', but 90% of speakers are white men and women get talked over in Q&A — inclusivity that's just a PR statement — STEM is still a boys' club."
+  },
+  {
+    "id": "hh45689",
+    "clauses": [
+      "Math PhD programs 'lead to fulfilling academic careers'.",
+      "80% of grads end up as adjuncts making $20k/year.",
+      "Fulfilling careers that pay poverty wages — why bother with a PhD?"
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "Math PhD programs 'lead to fulfilling academic careers', but 80% of grads end up as adjuncts making $20k/year — fulfilling careers that pay poverty wages — why bother with a PhD?"
+  },
+  {
+    "id": "hi78990",
+    "clauses": [
+      "STEM textbooks are 'affordable and up-to-date'.",
+      "A single physics textbook costs $300 and has the same content as 10 years ago.",
+      "Affordable learning that's price-gouging — textbook companies are greedy."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM textbooks are 'affordable and up-to-date', but a single physics textbook costs $300 and has the same content as 10 years ago — affordable learning that's price-gouging — textbook companies are greedy."
+  },
+  {
+    "id": "hj12301",
+    "clauses": [
+      "Engineering jobs are 'stable and low-stress'.",
+      "I work 60 hours/week and get laid off when projects end.",
+      "Stable jobs that are temporary — engineering stress is underrated."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "Engineering jobs are 'stable and low-stress', but I work 60 hours/week and get laid off when projects end — stable jobs that are temporary — engineering stress is underrated."
+  },
+  {
+    "id": "hk45612",
+    "clauses": [
+      "STEM outreach programs 'get more kids into science'.",
+      "They hand out cheap plastic kits and never follow up with schools.",
+      "Outreach that's just photo ops — no real change for kids."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM outreach programs 'get more kids into science', but they hand out cheap plastic kits and never follow up with schools — outreach that's just photo ops — no real change for kids."
+  },
+  {
+    "id": "hl78923",
+    "clauses": [
+      "Peer review in STEM journals is 'rigorous and fair'.",
+      "My paper was rejected because a reviewer didn't like my methodology (without proof).",
+      "Rigorous review that's subjective — peer review is a joke."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "Peer review in STEM journals is 'rigorous and fair', but my paper was rejected because a reviewer didn't like my methodology (without proof) — rigorous review that's subjective — peer review is a joke."
+  },
+  {
+    "id": "hm12334",
+    "clauses": [
+      "Online STEM courses 'are as good as in-person classes'.",
+      "I have no access to labs and professors never respond to emails.",
+      "Equal quality that's a downgrade — online STEM is a scam."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "Online STEM courses 'are as good as in-person classes', but I have no access to labs and professors never respond to emails — equal quality that's a downgrade — online STEM is a scam."
+  },
+  {
+    "id": "hn45645",
+    "clauses": [
+      "STEM industry 'values innovation over credentials'.",
+      "I got passed over for a promotion because I don't have a master's (despite 5 years of experience).",
+      "Innovation that's just about degrees — experience means nothing."
+    ],
+    "clause_labels": [0, 1, 0],
+    "subreddit": "stem",
+    "sarcasm": "STEM industry 'values innovation over credentials', but I got passed over for a promotion because I don't have a master's (despite 5 years of experience) — innovation that's just about degrees — experience means nothing."
+  }
+]
